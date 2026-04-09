@@ -1,0 +1,22 @@
+div{
+    background-color: black;
+    color: white;
+}
+.azul{
+    width:1000px;
+    height:1500px;
+    background-color: blue ;
+    margin-bottom: 50px;
+}
+.verde{
+    width:1000px;
+    height:1500px;
+    background-color: green;
+    margin-left:100px;
+}
+.vermelho{
+    width:1000px;
+    height:1500px;
+    background-color: red;
+    margin-top:70px;
+}
